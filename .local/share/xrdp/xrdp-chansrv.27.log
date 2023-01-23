@@ -1,0 +1,8 @@
+[20221004-17:58:27] [INFO ] Socket 12: AF_UNIX connection received
+[20221004-17:58:27] [INFO ] sound_process_training: round trip time 100
+[20221004-18:17:36] [ERROR] clipboard_event_selection_request: unknown target GTK_TEXT_BUFFER_CONTENTS
+[20221004-18:17:36] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221004-18:21:18] [ERROR] clipboard_event_selection_request: unknown target GTK_TEXT_BUFFER_CONTENTS
+[20221004-18:21:18] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221004-18:21:59] [ERROR] clipboard_event_selection_request: unknown target GTK_TEXT_BUFFER_CONTENTS
+[20221004-18:21:59] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8

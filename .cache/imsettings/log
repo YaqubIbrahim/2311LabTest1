@@ -1,0 +1,45 @@
+[ 1638555905.362974]: IMSettings-Daemon[514]: INFO: Starting imsettings-daemon...
+[ 1638555905.366384]: IMSettings-Daemon[514]: INFO:   [HOME=/cs/home/yaqub399/.config/imsettings]
+[ 1638555905.368180]: IMSettings-Daemon[514]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1638555905.370179]: IMSettings-Daemon[514]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1638555905.372144]: IMSettings-Daemon[514]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1638555905.374415]: IMSettings-Daemon[514]: INFO:   [MODULES=gsettings, qt]
+
+imsettings information
+==========================
+XINPUTRC: N/A
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: yes
+DESKTOP: unknown
+GUESS_DESKTOP: 
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-ECPqpDHzZg,guid=67d66b1b934df9e75797ae4d61aa6101
+GTK_IM_MODULE: 
+QT_IM_MODULE: 
+XMODIFIERS: 
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+
+[ 1638555908.235073]: IMSettings-Daemon[514]: WARNING **: Child process exited with code 1
+[ 1638555908.272638]: IMSettings-Daemon[514]: INFO: Attempting to switch IM to none [lang=en_US.UTF-8, update=false]
+
+[ 1638555908.306974]: IMSettings-Daemon[514]: WARNING **: Child process exited with code 1
+[ 1638555908.309321]: IMSettings-Daemon[514]: INFO:   no need to invoke any auxiliary process for none
+[ 1638555908.311068]: IMSettings-Daemon[514]: INFO:   no need to invoke any main process for none
+[ 1638555908.319244]: IMSettings-Qt backend[514]: INFO: Setting up xim as Qt immodule
+[ 1638555908.321106]: IMSettings-GSettings backend[514]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule
+[ 1638560065.382294]: IMSettings-Daemon[514]: INFO: Release the ownership of com.redhat.imsettings
+
+
+[ 1638560065.388054]: GLib-GIO[514]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+[ 1638560065.392719]: GLib-GIO[514]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+[ 1638560065.395088]: IMSettings-Daemon[514]: INFO: Unloading imesttings module: qt
+[ 1638560065.398294]: IMSettings-Daemon[514]: INFO: Unloading imesttings module: gsettings
+[ 1638560065.400460]: IMSettings-Daemon[514]: INFO: imsettings-daemon is shut down.

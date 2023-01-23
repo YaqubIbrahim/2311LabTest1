@@ -1,0 +1,45 @@
+[ 1636997584.887475]: IMSettings-Daemon[25343]: INFO: Starting imsettings-daemon...
+[ 1636997584.889430]: IMSettings-Daemon[25343]: INFO:   [HOME=/cs/home/yaqub399/.config/imsettings]
+[ 1636997584.891040]: IMSettings-Daemon[25343]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1636997584.892550]: IMSettings-Daemon[25343]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1636997584.894066]: IMSettings-Daemon[25343]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1636997584.895787]: IMSettings-Daemon[25343]: INFO:   [MODULES=gsettings, qt]
+
+imsettings information
+==========================
+XINPUTRC: N/A
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: yes
+DESKTOP: unknown
+GUESS_DESKTOP: 
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-rYtI5arDVV,guid=efb6ee7c1d49a2fb61f73cba619299d0
+GTK_IM_MODULE: 
+QT_IM_MODULE: 
+XMODIFIERS: 
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+
+[ 1636997587.584716]: IMSettings-Daemon[25343]: WARNING **: Child process exited with code 1
+[ 1636997587.619328]: IMSettings-Daemon[25343]: INFO: Attempting to switch IM to none [lang=en_US.UTF-8, update=false]
+
+[ 1636997587.653555]: IMSettings-Daemon[25343]: WARNING **: Child process exited with code 1
+[ 1636997587.655483]: IMSettings-Daemon[25343]: INFO:   no need to invoke any auxiliary process for none
+[ 1636997587.657236]: IMSettings-Daemon[25343]: INFO:   no need to invoke any main process for none
+[ 1636997587.665006]: IMSettings-Qt backend[25343]: INFO: Setting up xim as Qt immodule
+[ 1636997587.667056]: IMSettings-GSettings backend[25343]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule
+[ 1637002614.526079]: IMSettings-Daemon[25343]: INFO: Release the ownership of com.redhat.imsettings
+
+
+[ 1637002614.530794]: GLib-GIO[25343]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+[ 1637002614.533098]: GLib-GIO[25343]: CRITICAL **: Error while sending AddMatch() message: The connection is closed
+[ 1637002614.537735]: IMSettings-Daemon[25343]: INFO: Unloading imesttings module: qt
+[ 1637002614.540045]: IMSettings-Daemon[25343]: INFO: Unloading imesttings module: gsettings
+[ 1637002614.544871]: IMSettings-Daemon[25343]: INFO: imsettings-daemon is shut down.

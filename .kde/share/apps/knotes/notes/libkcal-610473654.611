@@ -1,0 +1,7 @@
+[General]
+version=4.10.5
+
+[WindowDisplay]
+HideNote=true
+desktop=1
+position=959,174

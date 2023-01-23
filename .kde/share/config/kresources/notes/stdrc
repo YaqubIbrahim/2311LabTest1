@@ -1,0 +1,11 @@
+[General]
+ResourceKeys=d2bLKlhrXg
+Standard=d2bLKlhrXg
+
+[Resource_d2bLKlhrXg]
+NotesURL[$e]=file://$HOME/.kde/share/apps/knotes/notes.ics
+ResourceIdentifier=d2bLKlhrXg
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Notes
+ResourceType=file

@@ -1,0 +1,418 @@
+#+1633487648
+cat lab2_2.sh
+#+1633633512
+bash labtest1_.sh 63
+#+1633634338
+bash labtest1_2.sh 63
+#+1633634425
+bash labtest1_2.sh 4
+#+1633635635
+submit EECS LABTEST1 labtest1_2.sh
+#+1633635653
+submit EECS 2032E LABTEST1 labtest1_2.sh
+#+1633635732
+submit EECS2032E LABTEST1 labtest1_2.sh
+#+1633651664
+bash lab3_2.sh
+#+1633651851
+submit 2032E LAB3 lab3_2.sh
+#+1633651978
+cat lab3_2.sh
+#+1633652055
+cat lab3_3.sh
+#+1633652275
+bash lab3_3.sh 12345678
+#+1633652400
+vi lab3_3.sh
+#+1633652805
+bash lab3_3.sh
+#+1633652846
+submit 2032E LAB3 lab3_3.sh
+#+1633652923
+vi lab3_1.sed
+#+1633653174
+submit 2032E LAB3 lab3_1.sed
+#+1634857555
+chmod +x lab4_1.sh
+#+1634857648
+-m
+#+1634858649
+./lab4_1.sh -m names.txt Courses.txt
+#+1634861523
+vi lab4_1.sh -s 123
+#+1634863839
+./lab4_1.sh -s 1234
+#+1634863852
+./lab4_1.sh 1
+#+1634863863
+./lab4_1.sh -s 1
+#+1634864233
+./lab4_1.sh -s 12
+#+1634864600
+./lab4_1.sh -m
+#+1634864611
+./lab4_1.sh -s 123
+#+1634864755
+./lab4_1.sh -2 123456
+#+1634864766
+./lab4_1.sh -s 123456
+#+1634864799
+vi lab4_1.sh
+#+1634864978
+./lab4_1.sh -s 234567
+#+1634865195
+submit 2032E LAB4 lab4_1.sh
+#+1635387809
+gcc lab5_1.c
+#+1636135617
+feedback 2030 Lab0P1
+#+1636135682
+feedback 2030 Lab0P2
+#+1636135950
+feedback 2030 Lab1
+#+1636912763
+chmod +x test1.sh
+#+1636912772
+./test1.sh 63
+#+1636913037
+vi test1.sh
+#+1636913063
+./test1.sh
+#+1636998125
+vi labtest1_3.sh
+#+1636998215
+chmod +x labtest1_2.sh
+#+1636998369
+vi labtest1_2.sh
+#+1636998453
+./labtest1_2.sh
+#+1636998641
+clear
+#+1636998864
+chmod +x labtest1mu_1.sh
+#+1636999180
+./labtest1mu_1.sh
+#+1636999202
+./labtest1mu_1.sh 100
+#+1636999211
+labtest1mu_1.sh 5
+#+1636999501
+sumbit 2032E LABTEST1MU labtest1mu_1.sh
+#+1637000549
+./labtest1mu_1.sh 4
+#+1637000560
+./labtest1mu_1.sh 5
+#+1637000631
+submit 2032 LABTEST1MU labtest1mu_1.sh
+#+1637000645
+submit 2032E LABTEST1MU labtest1mu_1.sh
+#+1638555994
+feedback 2030 ProgTest1
+#+1638556025
+feedback 2030 ProgTest2
+#+1663797335
+bash /n
+#+1663798578
+vi -r lab1_3.sh
+#+1663798661
+:e
+#+1663798767
+vi -d lab1_3.sh.swp
+#+1663798783
+lab1_3.sh
+#+1663799528
+vi lab1_2.sh aaa bbb ccc ddd eee fff ggg hhh
+#+1663810142
+bash lab1_1.sh abc def ghi jkl
+#+1663810162
+bash lab1_1.sh abc def
+#+1663810210
+submit 2032E LAB1 lab1_1.sh
+#+1663811402
+bash lab1_2.sh aaa bbb ccc ddd eee fff ggg hhh
+#+1663811435
+submit 2032E LAB1 lab1_2.sh
+#+1663814460
+bash lab1_3.sh aaa bbb ccc ddd eee fff ggg
+#+1663815110
+vi lab_3.sh
+#+1663815440
+bash lab1_2.sh aaa bbb ccc ddd eee fff ggg
+#+1663815883
+vi lab 1_3.sh
+#+1663816519
+bash lab1_#.sh
+#+1663816796
+vi lab1_3.sh
+#+1663816824
+bash lab1_3.sh
+#+1663816846
+bash
+#+1664230367
+bash lab2_1.sh 6 * 7
+#+1664230901
+bash lab2_1.sh 10 / 5
+#+1664232160
+bash lab2_2.sh 5 10
+#+1664322191
+bash lab2_2.sh 4 8
+#+1664413573
+bash lab2_3.s -m
+#+1664413664
+bash lab2_3.sh -m
+#+1664415301
+bash lan2_1.sh
+#+1664415699
+bash lab2_1.sh
+#+1664415766
+vi lab2_2.sh
+#+1664415938
+bash lab2_3.sh -s 12356
+#+1664415950
+bash lab2_3.sh 123456
+#+1664415962
+bash lab2_3.sh -2 123456
+#+1664415975
+bash lab2_3.sh -s 123456
+#+1664416363
+submit 2032E LAB2 lab2_1.sh
+#+1664416381
+submit 2032E LAB2 lab2_2.sh
+#+1664422038
+submit 2032E LAB2 lab2_3.sh
+#+1664920993
+vi la2_1.sh
+#+1664921738
+bash lab3_1.sh -num eecs 2030
+#+1664921753
+courses.txt
+#+1664922007
+bash lab3_1.sh -num eecs 2032
+#+1664923418
+sed -f test.txt
+#+1664923699
+pwd test.txt
+#+1664923718
+pwd lab3_2.sed
+#+1664923868
+ssed -f lab3_2.sed test.txt
+#+1664924445
+sed -i lab3_2.sed test.txt
+#+1664993727
+vi lab3_
+#+1664994209
+vi test.txt
+#+1664994226
+sed -f lab3_2.sed test.txt
+#+1665008247
+vi books.txt
+#+1665009962
+bash lab3_1.sh -num EECS
+#+1665010432
+vi lab2_3.sh
+#+1665012397
+vi lab3_2.sh
+#+1665012709
+bash lab3_1.sh -nobook
+#+1665015373
+vi courses.txt
+#+1665015385
+bash lab3_1.sh EECS2032
+#+1665015734
+vi lab2_1.sh
+#+1665016379
+bash lab3_1.sh -num 2032
+#+1665016436
+bash lab3_1.sh -num EECS 2032
+#+1665016558
+bash lab3_1.sh -num EECS2032
+#+1665017041
+submit 2032E LAB3 lab3_2.sed
+#+1665025362
+submit 2032E LAB3 lab3_1.sh
+#+1666133181
+vi labtest1mu_4.sed
+#+1666133207
+vi labtest1mu_4.sh
+#+1666208893
+-gcc lab4_1.c 1298567 1 4
+#+1666208930
+gcc lab4_1.c 1298567 1 4
+#+1666210693
+gcc a.out lab4_1.c
+#+1666210735
+gcc a.out lab4_1.c 1298567 1 4
+#+1666210989
+gcc lab4_1.c
+#+1666211024
+./a.out
+#+1666215010
+gcc -o run lab4_1.c && ./run
+#+1666215876
+vi lab4_1.c
+#+1666223610
+submit 2032E LAB4 lab4_1.c
+#+1666568551
+bash labt1_2.sh 4 12
+#+1666568620
+vi labt1_2.sh
+#+1666568640
+bash labt1_2.sh
+#+1666568665
+vi labt1_3.sh
+#+1666571180
+bash labtest1mu_1.sh
+#+1666571213
+vi labtest1mu_1.sh
+#+1666571679
+vi labtest1mu_2.sh
+#+1666572739
+vi vi labtest1mu_5.sed
+#+1666573543
+vi labtestmu1_6.sed
+#+1666575183
+vi lab3_2.sed
+#+1666575216
+vi lbatest1mu_6.sed
+#+1666575236
+vi test2.txt
+#+1666575489
+vi labtest1mu_6.sed
+#+1666575525
+sed -f labtest1mu_6.sed test2.txt
+#+1666815162
+vi labtest2_2.c
+#+1667426837
+gcc lab5_2.c -o a.out
+#+1667426960
+gcc lab5_2.c -o opy
+#+1667426969
+gcc lab5_2.c -o opt
+#+1667426991
+ls
+#+1667427064
+gcc lab5_2.c -o lab5_2.c
+#+1667429724
+gcc lab5_2.c -o ; ab5_2
+#+1667433843
+submit 2032E LAB5 lab5_2.c
+#+1667445010
+gcc lab5_1.c -o lab5_1
+#+1667445134
+./ lab5_1
+#+1667445716
+./lab5_1
+#+1667445774
+submit 2032E LAB5 lab5_1.c
+#+1667503108
+gcc lab5_2.c -o lab5_2
+#+1667503111
+./lab5_2
+#+1667679408
+gcc test,c -o test
+#+1667679933
+gcc test.c -o test
+#+1667680504
+man string.h
+#+1667680575
+man ctype.h
+#+1667764212
+./test
+#+1667775737
+vi test.c
+#+1667776058
+gcc test.c -o test2
+#+1667776485
+vi test2.c
+#+1667776524
+gcc test2.c -o test2
+#+1667776527
+./test2
+#+1669251795
+gcc lab6.c -o lab6
+#+1669251807
+John
+#+1669251816
+./lab6
+#+1669251824
+vi lab6.c
+#+1669253696
+gcc test6.c -o test6
+#+1669253700
+./test6
+#+1669253711
+vi test6.v
+#+1669253717
+vi test6.c
+#+1669253817
+vi data.txt
+#+1669254415
+vi write.c
+#+1669254442
+vi input.txt
+#+1669254495
+gcc write.c -o write
+#+1669254506
+a.out < input.txt
+#+1669254557
+./write
+#+1669259655
+gcc test7.c -o test7
+#+1669259659
+./test7
+#+1669259667
+vi test7.c
+#+1669259793
+vi labtest6_1.c
+#+1669260495
+vi test8.c
+#+1669260615
+gcc test8.c -o test8
+#+1669260618
+./test8
+#+1669262583
+vi lab6_1.c
+#+1669262830
+gcc lab6_1.c -o lab6_1
+#+1669262861
+./lab6_1
+#+1669263371
+submit 2032E LAB6 lab6_1.c
+#+1669962250
+bash sam.sh sss ssdsd sdsdsd sdsda asdasdasd
+#+1669962326
+vi lab1_2.c
+#+1669962529
+bash sam.sh ssss ffff gggg hhhhh
+#+1669962598
+bash sam.sh sss ggg hhh jjj
+#+1669962685
+bash sam.sh hhhh sss kkk lll
+#+1669962732
+bash sam.sh sssh hhhh hhjjknk
+#+1669962881
+vi lab3_1.sh
+#+1669963440
+vi lab1_1.sh
+#+1669963476
+vi lab1_2.sh
+#+1669964024
+bash sam.sh sss ggg hhh kkk
+#+1669964028
+vi sam.sh
+#+1669965989
+bash sam.sh 123 2323 23 23 2 32
+#+1670196377
+gcc qub.c -o qub
+#+1670196380
+./qub
+#+1670197276
+vi qub.c
+#+1670260127
+vi lab5_1.c
+#+1670260149
+vi lab5_2.c
+#+1670272548
+gcc lab4_1.c -o lab4_1
+#+1670272551
+./lab4_1

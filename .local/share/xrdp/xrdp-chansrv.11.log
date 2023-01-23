@@ -1,0 +1,11 @@
+[20221123-21:34:05] [INFO ] Socket 12: AF_UNIX connection received
+[20221123-21:34:05] [INFO ] sound_process_training: round trip time 101
+[20221123-21:34:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-21:51:32] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-21:59:50] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-22:05:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-22:12:23] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-22:12:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-22:26:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-22:30:04] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20221123-23:03:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8

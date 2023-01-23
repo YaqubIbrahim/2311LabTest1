@@ -1,0 +1,6 @@
+#!/bin/bash
+ xxx=$USER
+ yyy=$(date +%A)
+ echo "Good day Mr $xxx, Today is $yyy"
+
+

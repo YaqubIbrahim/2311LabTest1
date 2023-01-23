@@ -1,0 +1,82 @@
+[org/gnome/evolution-data-server]
+migrated=true
+
+network-monitor-gio-name=''
+
+[org/gnome/shell]
+favorite-apps=['firefox.desktop', 'thunderbird.desktop', 'org.gnome.Terminal.desktop', 'eclipse.desktop']
+
+app-picker-view=uint32 1
+
+[org/gnome/desktop/interface]
+gtk-im-module='gtk-im-context-simple'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[org/gnome/nautilus/preferences]
+search-filter-time-type='last_modified'
+
+default-folder-viewer='icon-view'
+
+[org/gnome/terminal/legacy]
+schema-version=uint32 3
+
+[org/gnome/software]
+check-timestamp=int64 1674491470
+
+[org/gnome/nautilus/window-state]
+geometry='890x550+597+186'
+maximized=false
+
+[org/gnome/settings-daemon/peripherals/keyboard]
+numlock-state='on'
+
+[org/gnome/gedit/plugins]
+active-plugins=['time', 'spell', 'modelines', 'filebrowser', 'docinfo']
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/plugins/filebrowser]
+tree-view=true
+root='file:///'
+virtual-root='file:///cs/home/yaqub399'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(900, 700)
+state=43908
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-nautilus', 'abrt-applet', 'org-gnome-software']
+
+[org/gtk/settings/file-chooser]
+window-position=(344, 27)
+window-size=(1231, 863)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+sidebar-width=163
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+
+[org/gnome/desktop/notifications/application/abrt-applet]
+application-id='abrt-applet.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/lockdown]
+disable-lock-screen=true
+
+[org/gnome/desktop/privacy]
+disable-microphone=false

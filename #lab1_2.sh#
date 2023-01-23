@@ -1,0 +1,11 @@
+ea04 12 % script lab1_2.sh
+Script started, file is lab1_2.sh
+ea04 12 % /bin/bash
+bash-4.2$ xxx=$USER
+bash-4.2$ yyy=$(date +%A)
+bash-4.2$ echo "Good day Mr $xxx, Today is $yyy"
+Good day Mr yaqub399, Today is Wednesday
+bash-4.2$ 
+
+ 
+

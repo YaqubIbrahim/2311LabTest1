@@ -1,0 +1,31 @@
+#!/usr/bin/bash
+ count=$#;
+ args=("$@")
+ read -r  n
+if [ "$n" -1e $count ]
+then
+
+	echo ${args[n-1]}
+
+else
+
+	echo "No such argument"
+fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

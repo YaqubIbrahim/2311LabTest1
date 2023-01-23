@@ -1,0 +1,9 @@
+[$Version]
+update_info=ksmserver_shortcuts.upd:kde4.10,ksmserver_shortcuts.upd:kde4.10-remove-group-kscreenlocker,kscreenlocker_locksession-shortcut.upd:4.9-locksession-shortcut,plasma-to-plasmadesktop-shortcuts.upd:4.3plasma-desktop-shortcuts
+
+[knotes]
+_k_friendly_name=KNotes
+hide_all_notes=Alt+Shift+H,Alt+Shift+H,Hide All Notes
+new_note=Alt+Shift+N,Alt+Shift+N,New Note
+new_note_clipboard=Alt+Shift+C,Alt+Shift+C,New Note From Clipboard
+show_all_notes=Alt+Shift+S,Alt+Shift+S,Show All Notes
